@@ -40,7 +40,7 @@ export default function NotesUploadPage() {
     async function getUploadData() {
       try {
         const res = await axios.get<uploadTypesResponse>(
-          "http://localhost:8000/api/admin/upload-data",
+          "https://veer-preps-api.vercel.app/api/admin/upload-data",
         );
         SetUploadData(res.data);
       } catch (error) {

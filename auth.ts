@@ -27,7 +27,7 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
 
                 try {
                     const response = await axios.post<BackendAuthResponse>(
-                        "http://localhost:8000/api/user/auth/signin",
+                        "https://veer-preps-api.vercel.app/api/user/auth/signin",
                         {
                             email: credentials.email as string,
                             password: credentials.password as string,

@@ -51,7 +51,7 @@ export function BranchOverview() {
     async function fetchBranches() {
       try {
         const res = await axios.get<BranchRes>(
-          "http://localhost:8000/api/branch",
+          "https://veer-preps-api.vercel.app/api/branch",
         );
         if (res.data && res.data.branches) {
           setBranches(res.data.branches);
@@ -88,7 +88,7 @@ export function BranchOverview() {
 
       // Refresh branches
       const res = await axios.get<BranchRes>(
-        "http://localhost:8000/api/branch",
+        "https://veer-preps-api.vercel.app/api/branch",
       );
       if (res.data && res.data.branches) {
         setBranches(res.data.branches);

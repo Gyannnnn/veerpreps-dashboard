@@ -40,7 +40,7 @@ export default function YoutubeUploadPage() {
     async function getUploadData() {
       try {
         const res = await axios.get<uploadTypesResponse>(
-          "http://localhost:8000/api/admin/upload-data",
+          "https://veer-preps-api.vercel.app/api/admin/upload-data",
         );
         setUploadData(res.data);
       } catch (error) {

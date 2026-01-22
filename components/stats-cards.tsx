@@ -36,7 +36,7 @@ export function StatsCards() {
     async function fetchStats() {
       try {
         const res = await axios.get<StatsRes>(
-          "http://localhost:8000/api/admin/stats",
+          "https://veer-preps-api.vercel.app/api/admin/stats",
         );
         if (res.data && res.data.data) {
           setStats(res.data.data);
