@@ -1,0 +1,1680 @@
+{
+    "success": true,
+    "message": "Upload data fetched",
+    "data": {
+        "branches": [
+            {
+                "branch_id": 8,
+                "userid": null,
+                "displayimage": "https://veerpreps.s3.ap-south-1.amazonaws.com/uploads/Branch/chemical.jpg",
+                "branchname": "Chemical Engineering",
+                "branchcode": "CHE"
+            },
+            {
+                "branch_id": 4,
+                "userid": null,
+                "displayimage": "https://veerpreps.s3.ap-south-1.amazonaws.com/uploads/Branch/etc.jpg",
+                "branchname": "Electronics And Telecommunication Engineering",
+                "branchcode": "ETC"
+            },
+            {
+                "branch_id": 6,
+                "userid": null,
+                "displayimage": "https://veerpreps.s3.ap-south-1.amazonaws.com/uploads/Branch/civil.jpg",
+                "branchname": "Civil Engineering",
+                "branchcode": "CE"
+            },
+            {
+                "branch_id": 10,
+                "userid": null,
+                "displayimage": "https://veerpreps.s3.ap-south-1.amazonaws.com/uploads/Branch/ee.jpg",
+                "branchname": "Electrical Engineering",
+                "branchcode": "EE"
+            },
+            {
+                "branch_id": 11,
+                "userid": null,
+                "displayimage": "https://veerpreps.s3.ap-south-1.amazonaws.com/uploads/Branch/eee.jpg",
+                "branchname": "Electrical And Electronics Engineering",
+                "branchcode": "EEE"
+            },
+            {
+                "branch_id": 5,
+                "userid": null,
+                "displayimage": "https://veerpreps.s3.ap-south-1.amazonaws.com/uploads/Branch/mech.jpg",
+                "branchname": "Mechanical Engineering",
+                "branchcode": "ME"
+            },
+            {
+                "branch_id": 3,
+                "userid": null,
+                "displayimage": "https://veerpreps.s3.ap-south-1.amazonaws.com/uploads/Branch/it.jpg",
+                "branchname": "Information Technology",
+                "branchcode": "IT"
+            },
+            {
+                "branch_id": 7,
+                "userid": null,
+                "displayimage": "https://veerpreps.s3.ap-south-1.amazonaws.com/uploads/Branch/production.jpg",
+                "branchname": "Production Engineering",
+                "branchcode": "PE"
+            },
+            {
+                "branch_id": 9,
+                "userid": null,
+                "displayimage": "https://veerpreps.s3.ap-south-1.amazonaws.com/uploads/Branch/mme.jpg",
+                "branchname": "Metallurgery And Material Engineering",
+                "branchcode": "MME"
+            },
+            {
+                "branch_id": 2,
+                "userid": null,
+                "displayimage": "https://veerpreps.s3.ap-south-1.amazonaws.com/uploads/Branch/cse.jpg",
+                "branchname": "Computer Science And Engineering",
+                "branchcode": "CSE"
+            }
+        ],
+        "subjects": [
+            {
+                "subject_id": 100,
+                "yearId": 33,
+                "subjectname": "Soft computing & heuristic optimisation",
+                "branchname": "Electrical engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 18,
+                "yearId": 1,
+                "subjectname": "Physics",
+                "branchname": "common",
+                "iscommon": true,
+                "branchid": 0
+            },
+            {
+                "subject_id": 19,
+                "yearId": 1,
+                "subjectname": "Chemistry (chem)",
+                "branchname": "common",
+                "iscommon": true,
+                "branchid": 0
+            },
+            {
+                "subject_id": 20,
+                "yearId": 1,
+                "subjectname": "Mathematics m1",
+                "branchname": "common",
+                "iscommon": true,
+                "branchid": 0
+            },
+            {
+                "subject_id": 21,
+                "yearId": 1,
+                "subjectname": "Mathematics m2",
+                "branchname": "common",
+                "iscommon": true,
+                "branchid": 0
+            },
+            {
+                "subject_id": 22,
+                "yearId": 1,
+                "subjectname": "Basic Manufacturing Processes (BMP)",
+                "branchname": "common",
+                "iscommon": true,
+                "branchid": 0
+            },
+            {
+                "subject_id": 23,
+                "yearId": 1,
+                "subjectname": "Basic Civil Engineering (BCE)",
+                "branchname": "common",
+                "iscommon": true,
+                "branchid": 0
+            },
+            {
+                "subject_id": 24,
+                "yearId": 1,
+                "subjectname": "Basic Electronics (BE)",
+                "branchname": "common",
+                "iscommon": true,
+                "branchid": 0
+            },
+            {
+                "subject_id": 25,
+                "yearId": 1,
+                "subjectname": "Basic Electrical Engineering (BEE)",
+                "branchname": "common",
+                "iscommon": true,
+                "branchid": 0
+            },
+            {
+                "subject_id": 26,
+                "yearId": 1,
+                "subjectname": "Universal Human Values (UHV)",
+                "branchname": "common",
+                "iscommon": true,
+                "branchid": 0
+            },
+            {
+                "subject_id": 27,
+                "yearId": 1,
+                "subjectname": "English For Technical Writing (ETW))",
+                "branchname": "common",
+                "iscommon": true,
+                "branchid": 0
+            },
+            {
+                "subject_id": 28,
+                "yearId": 1,
+                "subjectname": "C And Data Structure (CDS) ",
+                "branchname": "common",
+                "iscommon": true,
+                "branchid": 0
+            },
+            {
+                "subject_id": 29,
+                "yearId": 1,
+                "subjectname": "Engineering Mechanics (EM)",
+                "branchname": "common",
+                "iscommon": true,
+                "branchid": 0
+            },
+            {
+                "subject_id": 30,
+                "yearId": 9,
+                "subjectname": "Object Oriented Programming (OOP)",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 31,
+                "yearId": 9,
+                "subjectname": "Data Structure (DS)",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 32,
+                "yearId": 9,
+                "subjectname": "Database Engineering (DBE)",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 33,
+                "yearId": 9,
+                "subjectname": "Digital Logic Design (DLD)",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 34,
+                "yearId": 9,
+                "subjectname": "Engineering Economics (EE)",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 35,
+                "yearId": 9,
+                "subjectname": "Mathematics (M3)",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 36,
+                "yearId": 9,
+                "subjectname": "Computer Network (CN)",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 37,
+                "yearId": 9,
+                "subjectname": "Computer Organisation And Architecture (COA)",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 38,
+                "yearId": 9,
+                "subjectname": "Organisational Behaviour (OB)",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 39,
+                "yearId": 9,
+                "subjectname": "Discrete Mathematics (M4)",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 40,
+                "yearId": 9,
+                "subjectname": "Programming In Python",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 41,
+                "yearId": 9,
+                "subjectname": "Design And Analysis Of Algorithim (DAA)",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 44,
+                "yearId": 8,
+                "subjectname": "Operating System",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 47,
+                "yearId": 8,
+                "subjectname": "Compiler Design",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 52,
+                "yearId": 7,
+                "subjectname": "Computer Graphics And Multimedia",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 53,
+                "yearId": 7,
+                "subjectname": "Modeling & Simulation",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 54,
+                "yearId": 7,
+                "subjectname": "Artificial Intelligance",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 55,
+                "yearId": 7,
+                "subjectname": "Management Information Systems",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 57,
+                "yearId": 2,
+                "subjectname": "Object Orianted Programming (OOP)",
+                "branchname": "Computer Science And Engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 58,
+                "yearId": 2,
+                "subjectname": "Datastructures (DS)",
+                "branchname": "Computer Science And Engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 59,
+                "yearId": 2,
+                "subjectname": "Database Engineering (DBE)",
+                "branchname": "Computer Science And Engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 60,
+                "yearId": 2,
+                "subjectname": "Digital Logic Design (DLD)",
+                "branchname": "Computer Science And Engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 61,
+                "yearId": 2,
+                "subjectname": "Engineering Economics (EE)",
+                "branchname": "Computer Science And Engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 62,
+                "yearId": 2,
+                "subjectname": "Mathematics (M3)",
+                "branchname": "Computer Science And Engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 63,
+                "yearId": 2,
+                "subjectname": "Computer Network (CN)",
+                "branchname": "Computer Science And Engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 64,
+                "yearId": 2,
+                "subjectname": "Computer Organisation And Architecture (COA)",
+                "branchname": "Computer Science And Engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 65,
+                "yearId": 2,
+                "subjectname": "Organisation Behaviour (OB)",
+                "branchname": "Computer Science And Engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 66,
+                "yearId": 2,
+                "subjectname": "Discrete Mathematics",
+                "branchname": "Computer Science And Engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 67,
+                "yearId": 2,
+                "subjectname": "Programming in  Python ",
+                "branchname": "Computer Science And Engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 68,
+                "yearId": 2,
+                "subjectname": "Design & Analysis Of Algorithims (DAA)",
+                "branchname": "Computer Science And Engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 69,
+                "yearId": 35,
+                "subjectname": "Mathematics 3",
+                "branchname": "Electrical Engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 70,
+                "yearId": 35,
+                "subjectname": "Electrical Machines 1",
+                "branchname": "Electrical Engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 71,
+                "yearId": 35,
+                "subjectname": "Network Theory",
+                "branchname": "Electrical Engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 72,
+                "yearId": 35,
+                "subjectname": "Analog & Digital Electronics",
+                "branchname": "Electrical Engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 73,
+                "yearId": 35,
+                "subjectname": "Optimisation & Softcomputing",
+                "branchname": "Electrical Engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 74,
+                "yearId": 35,
+                "subjectname": "Engineering Economics",
+                "branchname": "Electrical Engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 75,
+                "yearId": 35,
+                "subjectname": "Mesurement & Instrumentation",
+                "branchname": "Electrical Engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 76,
+                "yearId": 35,
+                "subjectname": "Electrical Machines 2",
+                "branchname": "Electrical Engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 77,
+                "yearId": 35,
+                "subjectname": "Power Electronics",
+                "branchname": "Electrical Engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 78,
+                "yearId": 35,
+                "subjectname": "Power Generation Transmission & Distribution",
+                "branchname": "Electrical Engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 79,
+                "yearId": 35,
+                "subjectname": "Programming In Python",
+                "branchname": "Electrical Engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 80,
+                "yearId": 35,
+                "subjectname": "Organisational Behaviour",
+                "branchname": "Electrical Engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 93,
+                "yearId": 4,
+                "subjectname": "Internet & Web Programming",
+                "branchname": "Computer Science and engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 94,
+                "yearId": 4,
+                "subjectname": "Artificial Programming",
+                "branchname": "Computer Science and engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 95,
+                "yearId": 4,
+                "subjectname": "Parallel And Distributed Computing",
+                "branchname": "Computer Science and engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 96,
+                "yearId": 4,
+                "subjectname": "Digital Signal Processing",
+                "branchname": "Computer Science and engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 97,
+                "yearId": 4,
+                "subjectname": "Mobile Computing",
+                "branchname": "Computer Science and engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 98,
+                "yearId": 4,
+                "subjectname": "Multimedia system",
+                "branchname": "Computer Science and engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 99,
+                "yearId": 4,
+                "subjectname": "Entrepreneurship & e-business",
+                "branchname": "Computer Science and engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 101,
+                "yearId": 33,
+                "subjectname": "Electric and Hybride vehicles",
+                "branchname": "Electrical engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 102,
+                "yearId": 33,
+                "subjectname": "Embeded systems",
+                "branchname": "Electrical engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 103,
+                "yearId": 33,
+                "subjectname": "Smart power grid",
+                "branchname": "Electrical engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 104,
+                "yearId": 33,
+                "subjectname": "Power System operation & control",
+                "branchname": "Electrical engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 105,
+                "yearId": 33,
+                "subjectname": "High voltage engineering",
+                "branchname": "Electrical engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 106,
+                "yearId": 33,
+                "subjectname": "Flexible ac transmission system",
+                "branchname": "Electrical engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 107,
+                "yearId": 33,
+                "subjectname": "Digital Signal Processing",
+                "branchname": "Electrical engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 108,
+                "yearId": 31,
+                "subjectname": "Mathematics 3",
+                "branchname": "Metallurgery and material engineering",
+                "iscommon": false,
+                "branchid": 9
+            },
+            {
+                "subject_id": 109,
+                "yearId": 31,
+                "subjectname": "Introduction to physical metallurgery",
+                "branchname": "Metallurgery and material engineering",
+                "iscommon": false,
+                "branchid": 9
+            },
+            {
+                "subject_id": 110,
+                "yearId": 31,
+                "subjectname": "Transport phenomena",
+                "branchname": "Metallurgery and material engineering",
+                "iscommon": false,
+                "branchid": 9
+            },
+            {
+                "subject_id": 111,
+                "yearId": 31,
+                "subjectname": "Programming in python",
+                "branchname": "Metallurgery and material engineering",
+                "iscommon": false,
+                "branchid": 9
+            },
+            {
+                "subject_id": 112,
+                "yearId": 31,
+                "subjectname": "Organisational Behaviour",
+                "branchname": "Metallurgery and material engineering",
+                "iscommon": false,
+                "branchid": 9
+            },
+            {
+                "subject_id": 114,
+                "yearId": 31,
+                "subjectname": "Mineral Processing",
+                "branchname": "Metallurgery and material engineering",
+                "iscommon": false,
+                "branchid": 9
+            },
+            {
+                "subject_id": 115,
+                "yearId": 31,
+                "subjectname": "Unit process of extraction",
+                "branchname": "Metallurgery and material engineering",
+                "iscommon": false,
+                "branchid": 9
+            },
+            {
+                "subject_id": 116,
+                "yearId": 31,
+                "subjectname": "Deformation behaviour of materials",
+                "branchname": "Metallurgery and material engineering",
+                "iscommon": false,
+                "branchid": 9
+            },
+            {
+                "subject_id": 117,
+                "yearId": 31,
+                "subjectname": "Artificial intelligance and machine learning",
+                "branchname": "Metallurgery and material engineering",
+                "iscommon": false,
+                "branchid": 9
+            },
+            {
+                "subject_id": 118,
+                "yearId": 31,
+                "subjectname": "Engineering Economics",
+                "branchname": "Metallurgery and material engineering",
+                "iscommon": false,
+                "branchid": 9
+            },
+            {
+                "subject_id": 119,
+                "yearId": 31,
+                "subjectname": "Metallurgical Thermodynamics and kinetics",
+                "branchname": "Metallurgery and material engineering",
+                "iscommon": false,
+                "branchid": 9
+            },
+            {
+                "subject_id": 120,
+                "yearId": 12,
+                "subjectname": "Mathematics m3 ",
+                "branchname": "Electronics and telecommunication engineering",
+                "iscommon": false,
+                "branchid": 4
+            },
+            {
+                "subject_id": 121,
+                "yearId": 12,
+                "subjectname": "Analog elctronics circuit",
+                "branchname": "Electronics and telecommunication engineering",
+                "iscommon": false,
+                "branchid": 4
+            },
+            {
+                "subject_id": 122,
+                "yearId": 12,
+                "subjectname": "Basic Communication engineering",
+                "branchname": "Electronics and telecommunication engineering",
+                "iscommon": false,
+                "branchid": 4
+            },
+            {
+                "subject_id": 123,
+                "yearId": 12,
+                "subjectname": "Network synthesis and analysis",
+                "branchname": "Electronics and telecommunication engineering",
+                "iscommon": false,
+                "branchid": 4
+            },
+            {
+                "subject_id": 124,
+                "yearId": 12,
+                "subjectname": "Optimisation and soft computing",
+                "branchname": "Electronics and telecommunication engineering",
+                "iscommon": false,
+                "branchid": 4
+            },
+            {
+                "subject_id": 125,
+                "yearId": 12,
+                "subjectname": "Engineering Economics",
+                "branchname": "Electronics and telecommunication engineering",
+                "iscommon": false,
+                "branchid": 4
+            },
+            {
+                "subject_id": 126,
+                "yearId": 12,
+                "subjectname": "Digital System Design",
+                "branchname": "Electronics and telecommunication engineering",
+                "iscommon": false,
+                "branchid": 4
+            },
+            {
+                "subject_id": 127,
+                "yearId": 12,
+                "subjectname": "Advance Communication Engineering",
+                "branchname": "Electronics and telecommunication engineering",
+                "iscommon": false,
+                "branchid": 4
+            },
+            {
+                "subject_id": 128,
+                "yearId": 12,
+                "subjectname": "Electromagnetic Theory and Transmission Lines",
+                "branchname": "Electronics and telecommunication engineering",
+                "iscommon": false,
+                "branchid": 4
+            },
+            {
+                "subject_id": 129,
+                "yearId": 12,
+                "subjectname": "Programming in python",
+                "branchname": "Electronics and telecommunication engineering",
+                "iscommon": false,
+                "branchid": 4
+            },
+            {
+                "subject_id": 130,
+                "yearId": 12,
+                "subjectname": "Organisational Behaviour",
+                "branchname": "Electronics and telecommunication engineering",
+                "iscommon": false,
+                "branchid": 4
+            },
+            {
+                "subject_id": 131,
+                "yearId": 12,
+                "subjectname": "Electronic Instrumentation ",
+                "branchname": "Electronics and telecommunication engineering",
+                "iscommon": false,
+                "branchid": 4
+            },
+            {
+                "subject_id": 132,
+                "yearId": 27,
+                "subjectname": "Fluid Mechanics",
+                "branchname": "Chemical engineering",
+                "iscommon": false,
+                "branchid": 8
+            },
+            {
+                "subject_id": 133,
+                "yearId": 27,
+                "subjectname": "Chemical Process Technology",
+                "branchname": "Chemical engineering",
+                "iscommon": false,
+                "branchid": 8
+            },
+            {
+                "subject_id": 134,
+                "yearId": 27,
+                "subjectname": "Fuel and combustion",
+                "branchname": "Chemical engineering",
+                "iscommon": false,
+                "branchid": 8
+            },
+            {
+                "subject_id": 135,
+                "yearId": 27,
+                "subjectname": "Programming in python",
+                "branchname": "Chemical engineering",
+                "iscommon": false,
+                "branchid": 8
+            },
+            {
+                "subject_id": 136,
+                "yearId": 27,
+                "subjectname": "Mathematics m3",
+                "branchname": "Chemical engineering",
+                "iscommon": false,
+                "branchid": 8
+            },
+            {
+                "subject_id": 137,
+                "yearId": 27,
+                "subjectname": "Organisational Behaviour",
+                "branchname": "Chemical engineering",
+                "iscommon": false,
+                "branchid": 8
+            },
+            {
+                "subject_id": 138,
+                "yearId": 27,
+                "subjectname": "Mechanical Operation",
+                "branchname": "Chemical engineering",
+                "iscommon": false,
+                "branchid": 8
+            },
+            {
+                "subject_id": 139,
+                "yearId": 27,
+                "subjectname": "Chemical Engineering and Thermodynamics",
+                "branchname": "Chemical engineering",
+                "iscommon": false,
+                "branchid": 8
+            },
+            {
+                "subject_id": 140,
+                "yearId": 27,
+                "subjectname": "Chemical Process calculation",
+                "branchname": "Chemical engineering",
+                "iscommon": false,
+                "branchid": 8
+            },
+            {
+                "subject_id": 141,
+                "yearId": 27,
+                "subjectname": "Numerical Methods in engineering",
+                "branchname": "Chemical engineering",
+                "iscommon": false,
+                "branchid": 8
+            },
+            {
+                "subject_id": 142,
+                "yearId": 27,
+                "subjectname": "Artificial intelligance and machine learning",
+                "branchname": "Chemical engineering",
+                "iscommon": false,
+                "branchid": 8
+            },
+            {
+                "subject_id": 143,
+                "yearId": 27,
+                "subjectname": "Engineering Economics",
+                "branchname": "Chemical engineering",
+                "iscommon": false,
+                "branchid": 8
+            },
+            {
+                "subject_id": 144,
+                "yearId": 15,
+                "subjectname": "Engineering materials and metallurgy",
+                "branchname": "Mechanical Engineering",
+                "iscommon": false,
+                "branchid": 5
+            },
+            {
+                "subject_id": 146,
+                "yearId": 15,
+                "subjectname": "Basic thermodynamics",
+                "branchname": "Mechanical Engineering",
+                "iscommon": false,
+                "branchid": 5
+            },
+            {
+                "subject_id": 147,
+                "yearId": 15,
+                "subjectname": "Organisational behaviour",
+                "branchname": "Mechanical Engineering",
+                "iscommon": false,
+                "branchid": 5
+            },
+            {
+                "subject_id": 148,
+                "yearId": 15,
+                "subjectname": "Programming in python",
+                "branchname": "Mechanical Engineering",
+                "iscommon": false,
+                "branchid": 5
+            },
+            {
+                "subject_id": 149,
+                "yearId": 15,
+                "subjectname": "Numerical methods in engineering",
+                "branchname": "Mechanical Engineering",
+                "iscommon": false,
+                "branchid": 5
+            },
+            {
+                "subject_id": 150,
+                "yearId": 15,
+                "subjectname": "Artificial intelligance and machine learning",
+                "branchname": "Mechanical Engineering",
+                "iscommon": false,
+                "branchid": 5
+            },
+            {
+                "subject_id": 151,
+                "yearId": 15,
+                "subjectname": "Engineering economics",
+                "branchname": "Mechanical Engineering",
+                "iscommon": false,
+                "branchid": 5
+            },
+            {
+                "subject_id": 152,
+                "yearId": 15,
+                "subjectname": "Machine dynamics",
+                "branchname": "Mechanical Engineering",
+                "iscommon": false,
+                "branchid": 5
+            },
+            {
+                "subject_id": 153,
+                "yearId": 15,
+                "subjectname": "Machine design",
+                "branchname": "Mechanical Engineering",
+                "iscommon": false,
+                "branchid": 5
+            },
+            {
+                "subject_id": 154,
+                "yearId": 15,
+                "subjectname": "Fluid mechanics",
+                "branchname": "Mechanical Engineering",
+                "iscommon": false,
+                "branchid": 5
+            },
+            {
+                "subject_id": 155,
+                "yearId": 23,
+                "subjectname": "Mathematics 3",
+                "branchname": "Production Engineering",
+                "iscommon": false,
+                "branchid": 7
+            },
+            {
+                "subject_id": 156,
+                "yearId": 23,
+                "subjectname": "Thermal and fluid engineering",
+                "branchname": "Production Engineering",
+                "iscommon": false,
+                "branchid": 7
+            },
+            {
+                "subject_id": 157,
+                "yearId": 23,
+                "subjectname": "Materials Engineering and metallurgy",
+                "branchname": "Production Engineering",
+                "iscommon": false,
+                "branchid": 7
+            },
+            {
+                "subject_id": 158,
+                "yearId": 23,
+                "subjectname": "Mechanics of materials",
+                "branchname": "Production Engineering",
+                "iscommon": false,
+                "branchid": 7
+            },
+            {
+                "subject_id": 159,
+                "yearId": 23,
+                "subjectname": "Programming in python",
+                "branchname": "Production Engineering",
+                "iscommon": false,
+                "branchid": 7
+            },
+            {
+                "subject_id": 160,
+                "yearId": 23,
+                "subjectname": "Organisational Behaviour",
+                "branchname": "Production Engineering",
+                "iscommon": false,
+                "branchid": 7
+            },
+            {
+                "subject_id": 162,
+                "yearId": 23,
+                "subjectname": "Theory of machines",
+                "branchname": "Production Engineering",
+                "iscommon": false,
+                "branchid": 7
+            },
+            {
+                "subject_id": 163,
+                "yearId": 23,
+                "subjectname": "Inspection and metrology",
+                "branchname": "Production Engineering",
+                "iscommon": false,
+                "branchid": 7
+            },
+            {
+                "subject_id": 164,
+                "yearId": 23,
+                "subjectname": "Manufacturing technology mt-1",
+                "branchname": "Production Engineering",
+                "iscommon": false,
+                "branchid": 7
+            },
+            {
+                "subject_id": 166,
+                "yearId": 23,
+                "subjectname": "Engineering Economics",
+                "branchname": "Production Engineering",
+                "iscommon": false,
+                "branchid": 7
+            },
+            {
+                "subject_id": 167,
+                "yearId": 39,
+                "subjectname": "Mathematics 3",
+                "branchname": "Electrical and electronics engineering",
+                "iscommon": false,
+                "branchid": 11
+            },
+            {
+                "subject_id": 169,
+                "yearId": 39,
+                "subjectname": "Analog electrical circuit",
+                "branchname": "Electrical and electronics engineering",
+                "iscommon": false,
+                "branchid": 11
+            },
+            {
+                "subject_id": 170,
+                "yearId": 39,
+                "subjectname": "Engineering economics",
+                "branchname": "Electrical and electronics engineering",
+                "iscommon": false,
+                "branchid": 11
+            },
+            {
+                "subject_id": 171,
+                "yearId": 39,
+                "subjectname": "optimisation and soft computing",
+                "branchname": "Electrical and electronics engineering",
+                "iscommon": false,
+                "branchid": 11
+            },
+            {
+                "subject_id": 172,
+                "yearId": 39,
+                "subjectname": "Network theory",
+                "branchname": "Electrical and electronics engineering",
+                "iscommon": false,
+                "branchid": 11
+            },
+            {
+                "subject_id": 173,
+                "yearId": 39,
+                "subjectname": "Programming in python",
+                "branchname": "Electrical and electronics engineering",
+                "iscommon": false,
+                "branchid": 11
+            },
+            {
+                "subject_id": 174,
+                "yearId": 39,
+                "subjectname": "Organisational behaviour",
+                "branchname": "Electrical and electronics engineering",
+                "iscommon": false,
+                "branchid": 11
+            },
+            {
+                "subject_id": 175,
+                "yearId": 39,
+                "subjectname": "Electrical machines 2",
+                "branchname": "Electrical and electronics engineering",
+                "iscommon": false,
+                "branchid": 11
+            },
+            {
+                "subject_id": 176,
+                "yearId": 39,
+                "subjectname": "Digital system design",
+                "branchname": "Electrical and electronics engineering",
+                "iscommon": false,
+                "branchid": 11
+            },
+            {
+                "subject_id": 177,
+                "yearId": 39,
+                "subjectname": "Measuremts and instrumentation",
+                "branchname": "Electrical and electronics engineering",
+                "iscommon": false,
+                "branchid": 11
+            },
+            {
+                "subject_id": 178,
+                "yearId": 39,
+                "subjectname": "Signal and systems",
+                "branchname": "Electrical and electronics engineering",
+                "iscommon": false,
+                "branchid": 11
+            },
+            {
+                "subject_id": 179,
+                "yearId": 19,
+                "subjectname": "Mathematics 3",
+                "branchname": "Civil engineering",
+                "iscommon": false,
+                "branchid": 6
+            },
+            {
+                "subject_id": 180,
+                "yearId": 19,
+                "subjectname": "Fluid mechanics",
+                "branchname": "Civil engineering",
+                "iscommon": false,
+                "branchid": 6
+            },
+            {
+                "subject_id": 181,
+                "yearId": 19,
+                "subjectname": "Geotchnical engineering 1",
+                "branchname": "Civil engineering",
+                "iscommon": false,
+                "branchid": 6
+            },
+            {
+                "subject_id": 182,
+                "yearId": 19,
+                "subjectname": "Programming in python",
+                "branchname": "Civil engineering",
+                "iscommon": false,
+                "branchid": 6
+            },
+            {
+                "subject_id": 183,
+                "yearId": 19,
+                "subjectname": "Mechanics of materials",
+                "branchname": "Civil engineering",
+                "iscommon": false,
+                "branchid": 6
+            },
+            {
+                "subject_id": 165,
+                "yearId": 23,
+                "subjectname": "Artificial intelligence and machine learning",
+                "branchname": "Production Engineering",
+                "iscommon": false,
+                "branchid": 7
+            },
+            {
+                "subject_id": 145,
+                "yearId": 15,
+                "subjectname": "Mechanics of deformable solid",
+                "branchname": "Mechanical Engineering",
+                "iscommon": false,
+                "branchid": 5
+            },
+            {
+                "subject_id": 168,
+                "yearId": 39,
+                "subjectname": "Electrical Machines 1",
+                "branchname": "Electrical and electronics engineering",
+                "iscommon": false,
+                "branchid": 11
+            },
+            {
+                "subject_id": 113,
+                "yearId": 31,
+                "subjectname": "Phase transformation ",
+                "branchname": "Metallurgery and material engineering",
+                "iscommon": false,
+                "branchid": 9
+            },
+            {
+                "subject_id": 184,
+                "yearId": 19,
+                "subjectname": "Organisational behaviour",
+                "branchname": "Civil engineering",
+                "iscommon": false,
+                "branchid": 6
+            },
+            {
+                "subject_id": 185,
+                "yearId": 19,
+                "subjectname": "Transportation engineering",
+                "branchname": "Civil engineering",
+                "iscommon": false,
+                "branchid": 6
+            },
+            {
+                "subject_id": 186,
+                "yearId": 19,
+                "subjectname": "Geotchnical engineering 2",
+                "branchname": "Civil engineering",
+                "iscommon": false,
+                "branchid": 6
+            },
+            {
+                "subject_id": 187,
+                "yearId": 19,
+                "subjectname": "Structural analysis",
+                "branchname": "Civil engineering",
+                "iscommon": false,
+                "branchid": 6
+            },
+            {
+                "subject_id": 188,
+                "yearId": 19,
+                "subjectname": "Survey and geometric",
+                "branchname": "Civil engineering",
+                "iscommon": false,
+                "branchid": 6
+            },
+            {
+                "subject_id": 189,
+                "yearId": 19,
+                "subjectname": "Engineering economics",
+                "branchname": "Civil engineering",
+                "iscommon": false,
+                "branchid": 6
+            },
+            {
+                "subject_id": 190,
+                "yearId": 19,
+                "subjectname": "Artificial intelligance and machine learning",
+                "branchname": "Civil engineering",
+                "iscommon": false,
+                "branchid": 6
+            },
+            {
+                "subject_id": 191,
+                "yearId": 15,
+                "subjectname": "Mathematics 3",
+                "branchname": "Mechanical engineering",
+                "iscommon": false,
+                "branchid": 5
+            },
+            {
+                "subject_id": 161,
+                "yearId": 23,
+                "subjectname": "Theory of metal cutting",
+                "branchname": "Production Engineering",
+                "iscommon": false,
+                "branchid": 7
+            },
+            {
+                "subject_id": 192,
+                "yearId": 43,
+                "subjectname": "Gate Electrical 2015",
+                "branchname": "Electrical engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 193,
+                "yearId": 43,
+                "subjectname": "Gate Electrical 2016",
+                "branchname": "Electrical engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 194,
+                "yearId": 43,
+                "subjectname": "Gate Electrical 2017",
+                "branchname": "Electrical engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 195,
+                "yearId": 43,
+                "subjectname": "Gate Electrical 2018",
+                "branchname": "Electrical engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 196,
+                "yearId": 43,
+                "subjectname": "Gate Electrical 2019",
+                "branchname": "Electrical engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 197,
+                "yearId": 43,
+                "subjectname": "Gate Electrical 2020",
+                "branchname": "Electrical engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 198,
+                "yearId": 43,
+                "subjectname": "Gate Electrical 2021",
+                "branchname": "Electrical engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 199,
+                "yearId": 43,
+                "subjectname": "Gate Electrical 2022",
+                "branchname": "Electrical engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 200,
+                "yearId": 43,
+                "subjectname": "Gate Electrical 2023",
+                "branchname": "Electrical engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 201,
+                "yearId": 43,
+                "subjectname": "Gate Electrical 2024",
+                "branchname": "Electrical engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 212,
+                "yearId": 41,
+                "subjectname": "Gate CSIT 2015",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 213,
+                "yearId": 41,
+                "subjectname": "Gate CSIT 2016",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 214,
+                "yearId": 41,
+                "subjectname": "Gate CSIT 2017",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 215,
+                "yearId": 41,
+                "subjectname": "Gate CSIT 2018",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 216,
+                "yearId": 41,
+                "subjectname": "Gate CSIT 2019",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 217,
+                "yearId": 41,
+                "subjectname": "Gate CSIT 2020",
+                "branchname": "Electrical engineering",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 218,
+                "yearId": 41,
+                "subjectname": "Gate CSIT 2021",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 219,
+                "yearId": 41,
+                "subjectname": "Gate CSIT 2022",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 220,
+                "yearId": 41,
+                "subjectname": "Gate CSIT 2023",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 221,
+                "yearId": 41,
+                "subjectname": "Gate CSIT 2024",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 202,
+                "yearId": 42,
+                "subjectname": "Gate CSIT 2015",
+                "branchname": "Computer science and engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 203,
+                "yearId": 42,
+                "subjectname": "Gate CSIT 2016",
+                "branchname": "Computer science and engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 204,
+                "yearId": 42,
+                "subjectname": "Gate CSIT 2017",
+                "branchname": "Computer science and engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 205,
+                "yearId": 42,
+                "subjectname": "Gate CSIT 2018",
+                "branchname": "Computer science and engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 206,
+                "yearId": 42,
+                "subjectname": "Gate CSIT 2019",
+                "branchname": "Computer science and engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 207,
+                "yearId": 42,
+                "subjectname": "Gate CSIT 2020",
+                "branchname": "Computer science and engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 208,
+                "yearId": 42,
+                "subjectname": "Gate CSIT 2021",
+                "branchname": "Computer science and engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 209,
+                "yearId": 42,
+                "subjectname": "Gate CSIT 2022",
+                "branchname": "Computer science and engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 210,
+                "yearId": 42,
+                "subjectname": "Gate CSIT 2023",
+                "branchname": "Computer science and engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 211,
+                "yearId": 42,
+                "subjectname": "Gate CSIT 2024",
+                "branchname": "Computer science and engineering",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 222,
+                "yearId": 8,
+                "subjectname": "Aiml",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 223,
+                "yearId": 8,
+                "subjectname": "Theory of computation",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 225,
+                "yearId": 34,
+                "subjectname": "Switch Gear Protection",
+                "branchname": "Electrical Engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 226,
+                "yearId": 34,
+                "subjectname": "Control System",
+                "branchname": "Electrical Engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 227,
+                "yearId": 34,
+                "subjectname": "Signal System",
+                "branchname": "Electrical Engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 228,
+                "yearId": 34,
+                "subjectname": "Artificial intelligence and machine learning",
+                "branchname": "Electrical Engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 229,
+                "yearId": 34,
+                "subjectname": "Industrial Safety Engineering",
+                "branchname": "Electrical Engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 230,
+                "yearId": 34,
+                "subjectname": "Professional Ethics",
+                "branchname": "Electrical Engineering",
+                "iscommon": false,
+                "branchid": 10
+            },
+            {
+                "subject_id": 231,
+                "yearId": 8,
+                "subjectname": "Industrial Safety Engineering",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 232,
+                "yearId": 8,
+                "subjectname": "Professional Ethics",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 233,
+                "yearId": 8,
+                "subjectname": "Data Mining And Data Warehousing",
+                "branchname": "Information Technology",
+                "iscommon": false,
+                "branchid": 3
+            },
+            {
+                "subject_id": 234,
+                "yearId": 3,
+                "subjectname": "Professional Ethics For Engineers",
+                "branchname": "Cse",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 235,
+                "yearId": 3,
+                "subjectname": "Theory of computation",
+                "branchname": "Cse",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 236,
+                "yearId": 3,
+                "subjectname": "Cryptographic foundation and network security",
+                "branchname": "Cse",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 237,
+                "yearId": 3,
+                "subjectname": "Aiml",
+                "branchname": "Cse",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 238,
+                "yearId": 3,
+                "subjectname": "Operating System",
+                "branchname": "Cse",
+                "iscommon": false,
+                "branchid": 2
+            },
+            {
+                "subject_id": 239,
+                "yearId": 3,
+                "subjectname": "Industrial Saftey Engineering",
+                "branchname": "Cse",
+                "iscommon": false,
+                "branchid": 2
+            }
+        ]
+    }
+}
