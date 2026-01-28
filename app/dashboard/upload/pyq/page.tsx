@@ -140,12 +140,12 @@ export default function PyqUploadPage() {
 
       // Reset form
       setPyqName("");
-      setFile(null);
-      setFileName("");
-      setSubjectDisplay("");
-      setSubjectId("");
-      setExamType("");
-      setYear("");
+      // setFile(null);
+      // setFileName("");
+      // setSubjectDisplay("");
+      // setSubjectId("");
+      // setExamType("");
+      // setYear("");
 
       // Reset file input
       if (fileInputRef.current) {

@@ -56,7 +56,7 @@ export default function LandingPage() {
               </Link>
             </Button>
             <Button size="lg" variant="outline" className="h-12 min-w-[150px] rounded-full text-base" asChild>
-              <Link href="https://iitkirba.xyz" target="_blank">
+              <Link href="https://veerpreps.com" target="_blank">
                 Visit Student Site
               </Link>
             </Button>
